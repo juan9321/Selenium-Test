@@ -1,0 +1,19 @@
+{
+  "name": "att_qts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^10.2.0",
+    "nan": "^2.18.0",
+    "node-gyp": "^10.0.1",
+    "selenium-webdriver": "^4.15.0",
+    "sleep": "^6.3.0"
+  }
+}
