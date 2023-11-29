@@ -3,7 +3,10 @@ Este script realiza uma automação básica de navegação na web usando o Selen
 
 Para iniciar o projeto:
 
+
 1 -> Instalar o Chromedriver_win32;
+
 2 -> npm i
+
 3 -> node script.js
 
